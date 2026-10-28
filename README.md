@@ -65,4 +65,24 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 OctoPrint is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://octoprint.org/
+
+**Areas:** Company · 3D Printing · Open Source · IoT · Maker
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://octoprint.org/)
+- [Documentation](https://docs.octoprint.org/)
+- [Support](https://octoprint.org/help/)
+- [Blog](https://octoprint.org/blog/)
+- [Security](https://octoprint.org/security/)
+- [Privacy policy](https://octoprint.org/privacy/)
+- [GitHub](https://github.com/OctoPrint)
+- [Status](https://status.octoprint.org/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/octoprint/](https://apis.io/providers/octoprint/).
